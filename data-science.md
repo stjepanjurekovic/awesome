@@ -124,6 +124,7 @@ p-value
 ## Books
 
 - [***Mining of Massive Datasets***](http://www.mmds.org/) - The book is based on Stanford Computer Science course CS246: Mining Massive Datasets
+- [***Graph Algorithms for Data Science***](https://www.manning.com/books/graph-algorithms-for-data-science) - Manning Early Access Program
 
 ## Course
 
